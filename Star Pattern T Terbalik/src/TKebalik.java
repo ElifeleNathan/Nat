@@ -32,7 +32,7 @@ public class TKebalik {
     System.out.print("*");}
         }    
     else{
-        //jika pernyataan pertama tidak memenuhi maka dicetak bintang
+        //jika pernyataan pertama tidak memenuhi maka dicetak bintang 
         System.out.print("*");
     }
         }
