@@ -16,7 +16,7 @@ public class Pelajaran {
        //set inputan
        stambuk = a.nextInt();
        nama = a.nextLine();
-       //cetak inputan user
+       //cetak inputan user 
        System.out.println("Stambuk Anda = " +stambuk);
        System.out.println("Nama Anda = " + nama);
        
