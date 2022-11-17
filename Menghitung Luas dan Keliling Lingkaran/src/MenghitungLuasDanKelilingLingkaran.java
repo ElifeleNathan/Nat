@@ -1,10 +1,6 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 public class MenghitungLuasDanKelilingLingkaran {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         double phi=3.14;
         double r,L,K;
