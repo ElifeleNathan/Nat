@@ -1,8 +1,4 @@
 public class MenghitungHasilPerkalianDariTigaBilangan {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         int nilaia=10;
         int nilaib=20;
