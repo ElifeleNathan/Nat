@@ -24,7 +24,7 @@ public class TestES {
              //cetak bintang yang di hasilkan dari rumus diatas
             System.out.print("* ");
          }
-         //cetak ini untuk menyusun bintang agar lebih rapih (tidak sebaris)
+         //cetak ini untuk menyusun bintang agar lebih rapih (tidak sebaris) 
          System.out.print("\n");
       }
     }
