@@ -19,7 +19,7 @@ public class TKebalik {
             //menambahkan dan mengset variabel N dimana nilai N adalah satu kemudian N lebih kecil atau sama dengan 3 kemudian N ditambah satu
             for (int n = 1; n <= 3; n++)
         {
-            //Jika M tidak sama dengan 3
+            //Jika M tidak sama dengan 3 
     if (m != 3){
         //dan jika N sama dengan 1 atau N sama dengan 3
     if(n==1||n==3)
