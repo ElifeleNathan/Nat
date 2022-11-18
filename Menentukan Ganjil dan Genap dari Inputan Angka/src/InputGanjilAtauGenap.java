@@ -12,7 +12,7 @@ public class InputGanjilAtauGenap {
         else
         {
             System.out.println("Bilangan Ganjil");
-    }
+        }
     }
     
 }
