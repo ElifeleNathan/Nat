@@ -2,10 +2,6 @@
 import java.util.Scanner;
 //jika usia yang diinput = <1 bayi,<=5 balita,<=12 Anak-Anak,<=17 Remaja,dan >17 Dewasa
 public class MenentukanStatusOrangDariInputanUsia {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
         int usia;
